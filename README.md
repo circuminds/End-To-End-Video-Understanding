@@ -48,9 +48,17 @@ It demonstrates how to build a **real-world multimodal AI system** combining vid
 
 ### Demo
 
-Upload and process video:
+1. Upload and process video:
 
 ![Quick preview](demo/demo1.gif)
+
+2. Semantic search:
+
+![Quick preview](demo/demo2.gif)
+
+3. Summarization:
+
+![Quick preview](demo/demo3.gif)
 
 
 ### Engineering & Product Quality
