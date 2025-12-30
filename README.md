@@ -140,7 +140,8 @@ When running in Docker, the app connects to Ollama on the host via:
 http://host.docker.internal:11434
 
 Make sure Ollama is running:
-ollama serve```
+ollama serve
+```
 
 
 
