@@ -135,7 +135,7 @@ Open in browser:
 http://localhost:8501
 
 
-## Running with Docker (Recommended)
+## Running with Docker
 1️⃣ Build Docker image
 ```bash
 docker build -t video-understanding .
