@@ -494,7 +494,7 @@ if mode == "Search":
                             st.code(str(e))
 
 # -----------------------------
-# Summaries UI (Improved)
+# Summaries UI
 # -----------------------------
 else:
     st.subheader(f"Summaries — video: {meta.get('original_name', video_id)}")
@@ -535,7 +535,7 @@ else:
 
     st.markdown("---")
 
-    # ---- Key takeaways (heuristic) ----
+    # ---- Key takeaways ----
     st.markdown("### ✅ Key Takeaways")
     takeaways = summ.get("takeaways", None)
 
