@@ -145,7 +145,7 @@ ollama serve
 
 
 
-##Privacy & Data Handling
+## Privacy & Data Handling
 
 - No external paid API
 - All processing happens locally
