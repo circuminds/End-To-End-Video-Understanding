@@ -46,6 +46,13 @@ It demonstrates how to build a **real-world multimodal AI system** combining vid
 - Optional clip playback per summary chunk
 - Raw JSON available for debugging (toggleable)
 
+### Demo
+
+Upload and process video:
+
+![Quick preview](demo/demo1.gif)
+
+
 ### Engineering & Product Quality
 - Fully local inference (privacy-first)
 - Robust to:
